@@ -1,0 +1,8 @@
+torch
+faiss-cpu
+PyPDF2
+spacy
+transformers 
+matplotlib 
+scikit-learn
+datasets 
